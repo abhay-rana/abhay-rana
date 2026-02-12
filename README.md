@@ -1,9 +1,9 @@
 ## Hi, I'm Abhay Rana 👋
 
-  Creator of **[ResumeFreePro](https://www.resumefreepro.com)** - Free AI-powered resume builder
+  Full Stack Developer | Creator of ResumeFreePro  
+  🌐 Portfolio: **[abhayrana.com](https://www.abhayrana.com)**
 
   [![Website](https://img.shields.io/badge/ResumeFreePro-Live-brightgreen?style=for-the-badge)](https://www.resumefreepro.com)
-  [![GitHub](https://img.shields.io/github/stars/abhay-rana/Resume-Builder?style=for-the-badge&label=Stars)](https://github.com/abhay-rana/Resume-Builder)
 
   ---
 
