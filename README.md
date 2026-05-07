@@ -15,11 +15,13 @@
 
   **[ResumeFreePro](https://www.resumefreepro.com)** - Build professional resumes in minutes
 
-  ✅ 100% Free Forever - No paywalls, no watermarks<br>
-  ✅ AI-Powered Import - Upload PDF or LinkedIn profile<br>
-  ✅ ATS-Optimized Templates - Get past applicant tracking systems<br>
-  ✅ Deep Customization - Fonts, colors, spacing, icons<br>
-  ✅ No Signup Required - Start building immediately
+  ✅ 12+ ATS-Optimized Templates — single-column, double-column, and modern layouts<br>
+  ✅ LinkedIn & PDF Import — auto-populate your resume in under a minute<br>
+  ✅ Deep Customization — fonts, colors, spacing, header layouts, profile photo<br>
+  ✅ Job Application Tracker — Kanban board + calendar view with Chrome extensions<br>
+  ✅ Full Document Suite — cover letters, resignation letters, and portfolio builder<br>
+  ✅ AI Features — JD match score, ATS health check, and AI resume tailoring<br>
+  ✅ 100% Free — no watermarks, no paywalls, no signup required
 
   [![Try It Free](https://img.shields.io/badge/Try_It_Free-www.resumefreepro.com-blue?style=for-the-badge)](https://www.resumefreepro.com)
 
